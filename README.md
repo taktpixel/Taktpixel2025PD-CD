@@ -10,7 +10,7 @@ The dataset simulates practical defect scenarios observed in industrial printing
 
 ## Download
 
-The dataset can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15318946).
+The dataset can be downloaded from [Zenodo](https://zenodo.org/records/15318946).
 
 ## Directory Structure
 
