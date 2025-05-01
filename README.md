@@ -10,7 +10,7 @@ The dataset simulates practical defect scenarios observed in industrial printing
 
 ## Download
 
-The dataset can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15318802).
+The dataset can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15318946).
 
 ## Directory Structure
 
@@ -80,8 +80,8 @@ If you use this dataset in your work, please cite it as follows:
   title        = {Taktpixel2025PD-CD: Taktpixel 2025 Printing Defect Change Detection Dataset},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15318802},
-  url          = {https://doi.org/10.5281/zenodo.15318802},
+  doi          = {10.5281/zenodo.15318946},
+  url          = {https://doi.org/10.5281/zenodo.15318946},
   note         = {Dataset}
 }
 ```
