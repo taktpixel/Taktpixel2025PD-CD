@@ -8,6 +8,10 @@
 
 The dataset simulates practical defect scenarios observed in industrial printing processes (e.g., offset and inkjet), and includes a wide variety of real-world defects such as black spots, misregistrations, and surface contaminants.
 
+## Download
+
+The dataset can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.15318802).
+
 ## Directory Structure
 
 The dataset is organized into three subsets: `train`, `val`, and `test`. Each subset contains the following three directories:
